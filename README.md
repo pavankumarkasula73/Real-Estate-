@@ -1,2 +1,2 @@
 # Real-Estate-
-This is my personal project within team,we developing here website for real - Estate plots rooms and purchases
+This is my project within the team, we are developing here a website for real - Estate plots rooms, and purchases
